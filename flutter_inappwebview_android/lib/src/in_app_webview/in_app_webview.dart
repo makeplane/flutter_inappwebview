@@ -380,7 +380,7 @@ class AndroidInAppWebViewWidget extends PlatformInAppWebViewWidget {
         creationParamsCodec: const StandardMessageCodec(),
       );
     }
-    return PlatformViewsService.initSurfaceAndroidView(
+    return PlatformViewsService.initAndroidView(
       id: id,
       viewType: viewType,
       layoutDirection: layoutDirection,
