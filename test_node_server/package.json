@@ -14,6 +14,6 @@
     "cors": "^2.8.5",
     "express": "latest",
     "https": "latest",
-    "multiparty": "^4.2.3"
+    "multiparty": "^4.3.0"
   }
 }
